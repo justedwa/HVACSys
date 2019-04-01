@@ -21,3 +21,6 @@ Python 2.7
 Kinetis Motor Suite
 Kinetis Design Studio
 Kinetis Source Development Kit
+
+Flash ESP32 With micropython firmware and upload all python files found in the repo. (Configured for your network)
+For the KV31F, Use KDS to flash the device with the included project files.
